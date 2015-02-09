@@ -21,14 +21,9 @@ button {
 	margin-left:  350px;
 }
 
-#random {
-	float: left; 
-	margin-left: 23px;
-}
-
-#clear {
-	float: right;
-	margin-right:  350px;
+#random, #clear {
+	float: left;
+	margin-left: 15px;
 }
 
 #sketchpad {
