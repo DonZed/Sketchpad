@@ -1,0 +1,48 @@
+
+
+header {
+	width: 15%;
+	font: italic 44px Georgia, serif;
+	margin: 15px auto;
+}
+
+#choice_area {
+	width: 960px;
+	height: 20px;
+	margin: 15px auto;
+}
+
+button {
+	font: bold 14px Arial, sans-serif;
+}
+
+#new {
+	float: left;
+	margin-left:  350px;
+}
+
+#random {
+	float: left; 
+	margin-left: 23px;
+}
+
+#clear {
+	float: right;
+	margin-right:  350px;
+}
+
+#sketchpad {
+	border: solid;
+	width: 960px;
+	height: 960px;
+	margin: 15px auto;
+}
+
+.grid {
+	/*border: 1px solid black;*/
+	background-color: black;
+	width: 30px;
+	height: 30px;
+	float: left;
+
+}
